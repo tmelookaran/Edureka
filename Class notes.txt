@@ -1,0 +1,59 @@
+
+
+		Web develeoper certification class
+3/4/23
+Google slides on Browsers
+https://docs.google.com/presentation/d/1gjwjmSsP2x4hTUa1BquW7A-Geoa8ZvKk/edit#slide=id.p1 
+
+Class notes link:
+https://github.com/SangeethaShanmugm/ED-Web1/blob/master 
+
+Access github and setup an account - https://github.com (create an account)
+
+Download visual studio - https://code.visualstudio.com/dowload
+
+Access instructor repositories - https://github.com/SangeethaShanmugm (follow)
+
+Download git bash - https://git-scm.com/downloads
+
+vs code extensions :
+-------------------
+Live Server
+Code Spell Checker
+Prettier - Code formatter
+eslint
+githistory
+Auto Close Tag
+Auto Rename Tag
+JavaScript (ES6) code snippets
+
+
+Skills to learn - HTML/HTML --> Its a raw structure
+CSS/CSS3 --> Look & Feel (Design)
+Bootstrap 3,4,5 --> Responsiveness, is a framework and can be used by itself
+Javascript --> Add Logics ( add, subtract, what action with a button)
+JQuery --> Ajax call (fetch), DOM manipulation, add animation effects
+
+HTML template --> shift + 1 => !
+
+CNTRL + S -> Save
+
+Win + > --> add emoji
+
+heading tag
+<h1><h1>
+...
+<h6><h6>
+
+To set your global username/email configuration:
+-------------------------------------------------
+Open the command line. 
+If it doesn't work go to Git Bash from Start window and type in the command
+Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address: git config --global user.email "MY_NAME@example.com"
+
+https://drive.google.com/file/d/1Gq0qS7qOAq8v2A8yTbLQahT1nCOCmraj/view?usp=share_link
+
+https://github.com/SangeethaShanmugm/ED-Web1
+
+https://docs.google.com/forms/d/e/1FAIpQLSfFQWKwjkwJ87NQFU6OuclKqcjU2-mbmK8vjJ1SLAKTfItb8w/viewform?vc=0&c=0&w=1&flr=0
